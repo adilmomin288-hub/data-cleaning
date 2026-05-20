@@ -1,4 +1,1 @@
-# data-cleaning
-it is my first git repository.
-<br>
-Author-Adil momin
+df.to_csv("cleaned_data.csv", index=False)
